@@ -46,6 +46,8 @@ Currently, I'm diving deeper into Release and Deployment, and I'm excited to con
 ### PROJECTS LIKNS
 https://impradeep24.github.io/Analog-clock.github.io/
 
+<p> <a href=https://impradeep24.github.io/Analog-clock.github.io/><i class="fa fa-envelope"></i> <img alt="gmail" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz4I1W7d-Ig-x-jFO0KJzkKLW_2QWOEbVeLg&usqp=CAU"></a> </p>
+
 ## Get In Touch
 
 Feel free to connect with me via:
