@@ -44,14 +44,17 @@ Currently, I'm diving deeper into Release and Deployment, and I'm excited to con
 <code><img height="50" src="https://shorturl.at/44iB5"></code>
 
 ### PROJECTS LIKNS
-https://impradeep24.github.io/Analog-clock.github.io/
+2.MY_Portfolio
+<p> <a href= https://impradeep24.github.io/myportfolio.github.io/ target="_blank"><i class="fa fa-envelope"></i> <img img height="50" alt="gmail" src="https://t4.ftcdn.net/jpg/04/58/98/25/360_F_458982556_rY91aQnf50X9alQ9FdW99R8sfjhuoVk8.jpg"></a> </p>
 
-<p> <a href=https://impradeep24.github.io/Analog-clock.github.io/><i class="fa fa-envelope"></i> <img alt="gmail" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz4I1W7d-Ig-x-jFO0KJzkKLW_2QWOEbVeLg&usqp=CAU"></a> </p>
+
+1.AnalogClock
+<p> <a href=https://impradeep24.github.io/Analog-clock.github.io/ target="_blank"><i class="fa fa-envelope"></i> <img height="50" alt="gmail" src="https://t4.ftcdn.net/jpg/04/58/98/25/360_F_458982556_rY91aQnf50X9alQ9FdW99R8sfjhuoVk8.jpg"></a> </p>
 
 ## Get In Touch
 
 Feel free to connect with me via:
 
-<p> <a href="mailto:pradeepchamakeri.work@gmail.com"><i class="fa fa-envelope"></i> <img alt="gmail" src="https://img.shields.io/badge/Email-%230077B5.svg?&style=for-the-badge&logo=Mail&logoColor=white"></a> </p>
+<p> <a href="mailto:pradeepchamakeri.work@gmail.com"><i class="fa fa-envelope"></i> <img img height="50" alt="gmail" src="https://img.shields.io/badge/Email-%230077B5.svg?&style=for-the-badge&logo=Mail&logoColor=white"></a> </p>
 
 Let's collaborate on exciting projects or discuss anything related to software development!
