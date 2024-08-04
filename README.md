@@ -12,7 +12,7 @@ Currently, I'm diving deeper into Release and Deployment, and I'm excited to con
 
 
 ### DevOps :
-<code><img height="50" src="https://github.com/ShreedharVajjrashetti/demo/assets/164525339/b2f99ddb-718f-4641-bf66-aad55c18da1b"></code>
+<code><img height="50" src="https://github.com/impradeep24/demo/assets/164525339/b2f99ddb-718f-4641-bf66-aad55c18da1b"></code>
 
 
 ### Programming Languages:
