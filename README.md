@@ -2,29 +2,27 @@
 
 Welcome to my GitHub profile!!
 
- I'm a DevOps Engineer passionate about automating and streamlining development workflows, building scalable infrastructure, and fostering collaboration between development and operations teams.
+"Over 3+ years of experience in L1 and L2 Production Support, with hands-on expertise in all phases of Incident Management & Resolution, Change Management, Problem Handling, and Deployments, ensuring seamless issue resolution, efficient process implementation, and successful project delivery."
 
-I have expertise in implementing CI/CD pipelines using tools like AWS DevOps, Jenkins, or GitLab CI, enabling teams to deliver software more efficiently and reliably. I'm also skilled in infrastructure as code (IaC) using technologies such as Terraform and Ansible, allowing for reproducible and scalable infrastructure deployments on cloud platforms like AWS, Azure, and GCP.
-
-I enjoy working with containerization technologies like Docker and Kubernetes to containerize applications and orchestrate them in scalable environments. I'm constantly exploring new tools and technologies to enhance development and operations processes.
-
-Currently, I'm diving deeper into Release and Deployment, and I'm excited to continue learning and growing in the ever-evolving field of DevOps.
 
 ## Skills
 
 
-### DevOps :
-<code><img height="50" src="https://shorturl.at/D6e1W"></code>
-
+### Operating System:
+<code><img height="40" src="https://www.pngall.com/wp-content/uploads/5/Linux-PNG-Image-File.png"></code>
+<code><img height="40" src="https://download.logo.wine/logo/Windows_7/Windows_7-Logo.wine.png"></code>
 
 ### Programming Languages:
 
 <code><img height="40" src="https://shorturl.at/7fUrD"></code>
-<code><img height="50" src="https://logolook.net/wp-content/uploads/2022/11/Java-Logo.png"></code>
-<code><img height="40" src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo.png"></code>
+
+### Cloud Certificates:
+
+<code><img height="40" src="https://clipground.com/images/gcp-logo-png-3.png"></code>
+<code><img height="40" src="https://th.bing.com/th/id/OIP.XZNqhzNAjXQRFOIIugNiQgAAAA?rs=1&pid=ImgDetMain"></code>
+
 
 ### Frameworks/Libraries:
-<code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3fjbk_b3NiKPCzjecuzGVzLk7pTqbDmfPOg&usqp=CAU"></code>
 <code><img height="50" src="https://shorturl.at/PI3CS"></code>
 
 ### Web Technologies:
@@ -36,12 +34,6 @@ Currently, I'm diving deeper into Release and Deployment, and I'm excited to con
 <code><img height="50" src="https://w7.pngwing.com/pngs/717/111/png-transparent-mysql-round-logo-tech-companies-thumbnail.png"></code>
 <code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF6DUtfL8zxIDJBMcqIVWw-8fw2cEgTVbdsg&usqp=CAU"></code>
 
-### Tools/IDEs:
-<code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwO6cTnYdmnXj5vR0M4o0a2jUKsPCIiyYIWw&usqp=CAU"></code>
-<code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfMFtY4F4eNbIJuHkrGXpAgsEXzVKgOQFUpg&usqp=CAU"></code>
-<code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO7gwHo5MiwvKdGZ-LqEEvHkaeGB7YA_6Z6w&usqp=CAU"></code>
-<code><img height="50" src="https://netapp.io/wp-content/uploads/2018/05/ansible.png"></code>
-<code><img height="50" src="https://shorturl.at/44iB5"></code>
 
 ### PROJECTS:
 ### Portfolio
