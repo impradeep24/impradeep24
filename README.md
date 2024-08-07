@@ -30,7 +30,7 @@ Welcome to my GitHub profile!!
 <code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_wl2XZnNL5oTS_TSbsCiP_31dYtApXMMrXg&usqp=CAU"></code>
 
 ### Databases:
-<code><img height="50" src="https://1000logos.net/wp-content/uploads/2020/08/PostgreSQL-Logo.png"></code>
+<code><img height="50" src="https://tse4.mm.bing.net/th?id=OIP.SofyAKCKhA0KjsAQzSwrgAHaDt&pid=Api&P=0&h=180"></code>
 <code><img height="50" src="https://w7.pngwing.com/pngs/717/111/png-transparent-mysql-round-logo-tech-companies-thumbnail.png"></code>
 <code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF6DUtfL8zxIDJBMcqIVWw-8fw2cEgTVbdsg&usqp=CAU"></code>
 
