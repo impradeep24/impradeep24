@@ -37,7 +37,7 @@ Welcome to my GitHub profile!!
 
 ### PROJECTS:
 ### Portfolio
-<p> <a href= "https://impradeep24.github.io/Portfolio_2026//" target="_blank"> <img img height="50" alt="gmail" src="https://t4.ftcdn.net/jpg/04/58/98/25/360_F_458982556_rY91aQnf50X9alQ9FdW99R8sfjhuoVk8.jpg"></a> </p>
+<p> <a href= "https://impradeep24.github.io/PRADEEP_CHAMAKERI///" target="_blank"> <img img height="50" alt="gmail" src="https://t4.ftcdn.net/jpg/04/58/98/25/360_F_458982556_rY91aQnf50X9alQ9FdW99R8sfjhuoVk8.jpg"></a> </p>
 
 ### Analog-Clock
 <p> <a href=https://impradeep24.github.io/Analog-clock.github.io/ target="_blank"></i> <img height="50" alt="gmail" src="https://t4.ftcdn.net/jpg/04/58/98/25/360_F_458982556_rY91aQnf50X9alQ9FdW99R8sfjhuoVk8.jpg"></a> </p>
